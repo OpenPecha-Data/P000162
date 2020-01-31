@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་པ་ངོ་མཚར་ལམ་སྟོན་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་རྡོར་སློབ་བསྟན་དགའ་རིན་པོ་ཆེ།
+  sku: BEN-LB-001
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Marvelous Advice:An Explanation of the Aspirational Prayer for Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་པ་ངོ་མཚར་ལམ་སྟོན་ཞེས་བྱ་བ་བཞུགས་སོ། །
+  collection:
+    en: Benchen Library–  Book 1
+    bo: བེན་ཆེན་དཔེ་མཛོད་ཁང་།–  དེབ། ༡
+  author:
+    en: Kyabje Tenga Rinpoche
+    bo: ༧སྐྱབས་རྗེ་བསྟན་དགའ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Benchen Publications
+    bo: བེན་ཆེན་སློབ་གཉེར་ཁང་།
+  sku: BEN-LB-001
+  category:
+    en: Mahamudra
+    bo: ཕྱག་རྒྱ་ཆེན་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: BEN-LB-001.epub
+  description:
+    en: ''
+    bo: པོད་འདིའི་ནང་ལ་༧སྐྱབས་རྗེ་རྡོར་སློབ་བསྟན་དགའ་རིན་པོ་ཆེས་མཛད་པའི་ངེས་དོན་ཕྱག་རྒྱ་ཆེན་མོའི་སྨོན་ལམ་གྱི་འགྲེལ་བ་ཞིག་བཞུགས་ཡོད།
+      ཕྱག་ཆེན་སྨོན་ལམ་གྱི་རྩ་བ་ནི་དཔལ་རྒྱལ་དབང་ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེས་མཛད་པའོ༎
