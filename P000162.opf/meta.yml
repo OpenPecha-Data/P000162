@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000162
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་པ་ངོ་མཚར་ལམ་སྟོན་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་རྡོར་སློབ་བསྟན་དགའ་རིན་པོ་ཆེ།
-  sku: BEN-LB-001
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: BEN-LB-001
 web_metadata:
   title:
     en: Marvelous Advice:An Explanation of the Aspirational Prayer for Mahamudra
